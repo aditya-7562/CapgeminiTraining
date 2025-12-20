@@ -11,5 +11,6 @@ class evenOdd{
 		else{
 			System.out.println(a + " is odd");
 		}
+		sc.close();
 	}
 }

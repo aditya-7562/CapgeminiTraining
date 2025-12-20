@@ -16,5 +16,6 @@ class div35{
 		} else{
 			System.out.println(a + " is not divisible by either 3 or 5.");
 		}
+		sc.close();
 	}
 }

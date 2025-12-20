@@ -23,5 +23,6 @@ class stGrade{
 		} else{
 			System.out.println("Fail");
 		}
+		sc.close();
 	}
 }

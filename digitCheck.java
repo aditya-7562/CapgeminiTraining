@@ -12,5 +12,6 @@ class digitCheck{
 		} else {
 			System.out.println(c + " is not a digit.");
 		}
+		sc.close();
 	}
 }

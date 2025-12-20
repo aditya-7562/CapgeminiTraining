@@ -12,5 +12,6 @@ class div7{
 		} else {
 			System.out.println(a + " is not divisible by 7.");
 		}
+		sc.close();
 	}
 }
