@@ -1,4 +1,14 @@
 // program to use switch for printing some info associated with the input
+
+
+//    Switch: 
+//      We can not use long, float, double, boolean as input of switch.
+//      default statement is not mandatory
+//      we can add default anywhere in switch
+//      break is aka control transfer statement
+
+
+
 import java.util.Scanner;
 public class switchFruit {
     public static void main(String[] args) {
