@@ -71,6 +71,14 @@ It is organized **day-wise** to reflect consistent, structured hands-on learning
     *   **Code Tracing:** Complex execution flow with static blocks and methods (`codeTracing.java`).
     *   **Main Method Overloading:** Demonstrating that `main` can be overloaded (`mainOverload.java`).
 
+### 📅 2025-12-30: Advanced OOP & Object Initialization
+*   **Topics:** Constructors, Instance Initializer Blocks (IIB), Flow of Execution, Shallow vs. Deep Copying.
+*   **Exercises:**
+    *   **OOP Concepts Part 2:** Detailed documentation on IIBs, constructors, and the internal steps of object instantiation (`oops2.md`, `oops2.java`).
+    *   **Copy Constructors:** Implementation of Shallow Copy (sharing references) in `Employee.java` and Deep Copy (cloning data) in `Student.java`.
+    *   **State Management:** Practice with object state initialization and display methods in `BankAccount.java` and `students.java`.
+    *   **Constructor Chaining:** Implementation of Constructor Chaining using `this()` and `super()`.
+
 ## Purpose
 This repository is intended to:
 - Maintain a chronological record of training progress.
