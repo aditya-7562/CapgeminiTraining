@@ -64,9 +64,12 @@ It is organized **day-wise** to reflect consistent, structured hands-on learning
     *   Continuation of complex array-based problems (filtering, searching, modifying).
 
 ### 📅 2025-12-29: Object-Oriented Programming (OOP)
-*   **Topics:** Introduction to OOP concepts.
+*   **Topics:** Introduction to OOP concepts, Static vs Instance members, Variable Shadowing, `this` keyword, Method Overloading.
 *   **Exercises:**
-    *   Basic OOP structure and implementation (`oops.java`).
+    *   **OOP Concepts:** Comprehensive documentation and examples (`oops.md`, `oops.java`).
+    *   **Processor Class:** Logic demonstrating `this` keyword, instance methods, and variable shadowing (`Processor.java`).
+    *   **Code Tracing:** Complex execution flow with static blocks and methods (`codeTracing.java`).
+    *   **Main Method Overloading:** Demonstrating that `main` can be overloaded (`mainOverload.java`).
 
 ## Purpose
 This repository is intended to:
