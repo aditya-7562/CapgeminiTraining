@@ -266,6 +266,8 @@
  *  -> If we have n numbers of constructors, then we can use this() in (n-1)
  *  constructors.
  *  -> If any constructor will have this() calling statement, then it does not have PIL and IIB.
+ *  -> In constructor we can use only one this calling statement.
+ *  -> It must be the first statement in the constructor.
  *  
  *  Note: Constructor recursion is not allowed in Java because it leads to infinite loop.
  * 

@@ -18,6 +18,79 @@
 ->  What is the use of copy constructor in Java?
     A copy constructor in Java is used to create a new object as a copy of an existing object. It takes another object of the same class as a parameter and initializes the new object's attributes with the values of the passed object's attributes. This is useful for creating duplicates of objects, ensuring that the new object has the same state as the original without affecting it. Copy constructors help in managing object references and preventing unintended modifications to shared data.
 */
+
+
+
+/* Object Oriented Programming
+    It is a design paradigm which helps the programmer to corelate real world entities with programming constructs in forms of objects.
+
+    Four pillars of OOPs:
+    1. Encapsulation
+    2. Inheritance
+    3. Polymorphism
+    4. Abstraction
+
+    state means variables
+    behavior means methods
+
+    Encapsulation: Binding states (data members) and behaviors (methods) together in a single unit is called encapsulation.
+
+    Why use encapsulation?
+    To acheive data hiding
+
+    What is data hiding?
+    The process of restricting direct access but providing controlled access is called data hiding.
+
+    How to avoid direct access?
+    By making data members private which makes them inaccessible from outside the class.
+
+    How to provide controlled access?
+    By using getter and setter methods.
+
+    What is use of getter method?
+    Getter method is used to read the value of private variable.
+
+    What is use of setter method?
+    Setter method is used to set or update the value of private variable.
+*/
+
+
+// Encapsulation example
+// class Circle2{
+//     private double radius;
+
+//     // Getter and Setter methods
+//     public double getRadius() {
+//         return radius;
+//     }
+
+//     public void setRadius(double radius) {
+//         this.radius = radius;
+//     }
+
+//     // Method to calculate area
+//     public double calculateArea() {
+//         return Math.PI * radius * radius;
+//     }
+
+//     // Method to calculate perimeter
+//     public double calculatePerimeter() {
+//         return 2 * Math.PI * radius;
+//     }
+// }
+
+
+// public class Circle {
+
+//     public static void main(String[] args) {
+//         Circle2 c1 = new Circle2();
+//         c1.setRadius(5.0);
+//         System.out.println("Area: " + Math.round(c1.calculateArea()));
+//         System.out.println("Perimeter: " + Math.round(c1.calculatePerimeter()));
+//     }
+// }
+
+
 public class oops3 {
     public static void main(String[] args) {
         
