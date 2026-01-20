@@ -70,7 +70,7 @@
 
 ---
 
-## 5. Practice Problems & Projects
+## 5. Practice Problems
 
 ### Removal using Iterator (`itrP1.java`)
 *   **Task:** Remove objects from a list one by one using an Iterator.
