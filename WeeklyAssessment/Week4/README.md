@@ -86,9 +86,10 @@ POST /api/auth/login
 
 ### Screenshot
 
-```
-[Add Screenshot: User Login API]
-```
+<p align="center">
+  <img src="course-management-system/ScreenShots/login-request.png" width="45%">
+  <img src="course-management-system/ScreenShots/login-response.png" width="45%">
+</p>
 
 ---
 
@@ -112,9 +113,10 @@ GET /api/users/1
 
 ### Screenshot
 
-```
-[Add Screenshot: Get User By ID]
-```
+<p align="center">
+  <img src="course-management-system/ScreenShots/user-request.png" width="45%">
+  <img src="course-management-system/ScreenShots/user-response.png" width="45%">
+</p>
 
 ---
 
@@ -156,9 +158,10 @@ POST /api/courses?instructorId=1
 
 ### Screenshot
 
-```
-[Add Screenshot: Create Course API]
-```
+<p align="center">
+  <img src="course-management-system/ScreenShots/createCourse-request.png" width="45%">
+  <img src="course-management-system/ScreenShots/createCourse-response.png" width="45%">
+</p>
 
 ---
 
@@ -175,16 +178,17 @@ PUT /api/courses/{id}
 Example
 
 ```
-PUT /api/courses/1
+PUT /api/courses/2
 ```
 
 ---
 
 ### Screenshot
 
-```
-[Add Screenshot: Update Course API]
-```
+<p align="center">
+  <img src="course-management-system/ScreenShots/updateCourse-request.png" width="45%">
+  <img src="course-management-system/ScreenShots/updateCourse-response.png" width="45%">
+</p>
 
 ---
 
@@ -201,16 +205,17 @@ DELETE /api/courses/{id}
 Example
 
 ```
-DELETE /api/courses/1
+DELETE /api/courses/2
 ```
 
 ---
 
 ### Screenshot
 
-```
-[Add Screenshot: Delete Course API]
-```
+<p align="center">
+  <img src="course-management-system/ScreenShots/deleteCourse-request.png" width="45%">
+  <img src="course-management-system/ScreenShots/deleteCourse-response.png" width="45%">
+</p>
 
 ---
 
@@ -236,9 +241,10 @@ sort  -> field to sort by
 
 ### Screenshot
 
-```
-[Add Screenshot: Get Courses With Pagination]
-```
+<p align="center">
+  <img src="course-management-system/ScreenShots/getCourse-request.png" width="45%">
+  <img src="course-management-system/ScreenShots/getCourse-response.png" width="45%">
+</p>
 
 ---
 
@@ -262,9 +268,10 @@ GET /api/courses/1
 
 ### Screenshot
 
-```
-[Add Screenshot: Get Course By ID]
-```
+<p align="center">
+  <img src="course-management-system/ScreenShots/getCourseId-request.png" width="45%">
+  <img src="course-management-system/ScreenShots/getCourseId-response.png" width="45%">
+</p>
 
 ---
 
@@ -297,9 +304,10 @@ POST /api/enrollments
 
 ### Screenshot
 
-```
-[Add Screenshot: Student Enrollment API]
-```
+<p align="center">
+  <img src="course-management-system/ScreenShots/enroll-request.png" width="45%">
+  <img src="course-management-system/ScreenShots/enroll-response.png" width="45%">
+</p>
 
 ---
 
@@ -323,9 +331,10 @@ GET /api/enrollments/student/2
 
 ### Screenshot
 
-```
-[Add Screenshot: Student Enrollments API]
-```
+<p align="center">
+  <img src="course-management-system/ScreenShots/getEnrollStudent-request.png" width="45%">
+  <img src="course-management-system/ScreenShots/getEnrollStudent-response.png" width="45%">
+</p>
 
 ---
 
@@ -349,9 +358,10 @@ GET /api/enrollments/course/1
 
 ### Screenshot
 
-```
-[Add Screenshot: Course Enrollments API]
-```
+<p align="center">
+  <img src="course-management-system/ScreenShots/getEnrollCourse-request.png" width="45%">
+  <img src="course-management-system/ScreenShots/getEnrollCourse-response.png" width="45%">
+</p>
 
 ---
 
@@ -399,16 +409,17 @@ Example
 ```
 title = Lecture 1
 courseId = 1
-file = lecture1.pdf
+file = lecture1.txt
 ```
 
 ---
 
 ### Screenshot
 
-```
-[Add Screenshot: Upload Course Material]
-```
+<p align="center">
+  <img src="course-management-system/ScreenShots/upload-request.png" width="45%">
+  <img src="course-management-system/ScreenShots/upload-response.png" width="45%">
+</p>
 
 ---
 
@@ -432,9 +443,10 @@ GET /api/materials/1/download
 
 ### Screenshot
 
-```
-[Add Screenshot: Download Course Material]
-```
+<p align="center">
+  <img src="course-management-system/ScreenShots/download-request.png" width="45%">
+  <img src="course-management-system/ScreenShots/download-response.png" width="45%">
+</p>
 
 ---
 
@@ -458,9 +470,10 @@ GET /api/materials/course/1
 
 ### Screenshot
 
-```
-[Add Screenshot: Get Course Materials]
-```
+<p align="center">
+  <img src="course-management-system/ScreenShots/getMaterial-request.png" width="45%">
+  <img src="course-management-system/ScreenShots/getMaterial-response.png" width="45%">
+</p>
 
 ---
 
