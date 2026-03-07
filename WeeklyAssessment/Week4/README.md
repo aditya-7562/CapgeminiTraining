@@ -57,8 +57,8 @@ Returns created user details.
 ### Screenshot
 
 <p align="center">
-  <img src="ScreenShots/register-request.png" width="45%">
-  <img src="ScreenShots/register-response.png" width="45%">
+  <img src="Course-Management-System/ScreenShots/register-request.png" width="45%">
+  <img src="Course-Management-System/ScreenShots/register-response.png" width="45%">
 </p>
 
 ---
